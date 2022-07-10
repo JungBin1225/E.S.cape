@@ -1,4 +1,4 @@
-![E S cape_Main](https://user-images.githubusercontent.com/69952837/178146309-58263c4f-5743-468f-8117-57cb7e735825.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178146309-58263c4f-5743-468f-8117-57cb7e735825.png"></p>
 
 <div align="center">
   <H1>입속 멜로</H1>
