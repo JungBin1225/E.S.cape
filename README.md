@@ -17,10 +17,10 @@
   + ### 개발 형태
     + #### 팀 프로젝트
   + ### 개발 인원 및 역할
-    + #### 상명대학교 게임학과 19학번 김다은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 배예림 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 상명대학교 게임학과 19학번 전하은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 김다은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-4285F4.svg?&style=for-the-badge&logo=googledocs&logoColor=black"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 배예림 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-4285F4.svg?&style=for-the-badge&logo=googledocs&logoColor=black"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 전하은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-4285F4.svg?&style=for-the-badge&logo=googledocs&logoColor=black"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=black"/>
 + ## **게임 상세**
   + ### 스토리
     + #### 마법이 존재하는 세계에 사는 주인공은 취업을 하지 못해 가난하게 살고 있었지만, 세상에서 가장 실력이 좋은 대마법사의 마법 망토를 가지게 되면 취업을 할 수 있을 것이라고 생각하게 된다. 대마법사를 만나러 간 주인공은 어떤 방에 갇히게 되고, 주인공은 대마법사를 만나기 위해 방의 암호를 풀어 탈출하려고 한다.
